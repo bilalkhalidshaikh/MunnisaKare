@@ -1,3 +1,3 @@
-Verior's Project
+Project for Verior
 
-[MunnuSakre](https://munnisakare-verior.surge.sh/)
+## [MunnuSakre](https://munnisakare-verior.surge.sh/)
